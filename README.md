@@ -4,7 +4,7 @@ Tujuan dibuatnya repository ini untuk memudahkan proses belajar dan mengajar pra
 
 Overview :
 
-1. Praktikum 1 - Dasar Pemrograman Matlab
+1. Praktikum 1 - Dasar Pemrograman Python (Video Presentasi = https://bit.ly/3nYaT5E)
 2. Praktikum 2 - Plot
 3. Praktikum 3 - Read and Convert Images
 4.
