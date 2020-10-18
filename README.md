@@ -1,6 +1,6 @@
 # Praktikum Pengolohan Citra Digital (versi Python)
  
-Tujuan dibuatnya repository ini untuk memudahkan proses belajar dan mengajar praktikum dari mata kuliah "Pengantar Citra Digital", nantinya penjelasan di tiap-tiap percobaan dalam satu pratikum akan kami sertakan URL YouTubenya disini (insyaallah), mengenai diskusi dan upload tugas praktikum bisa dilakukan via Google Classroom
+Tujuan dibuatnya repository ini untuk memudahkan proses belajar dan mengajar praktikum dari mata kuliah "Pengantar Citra Digital", nantinya penjelasan di tiap-tiap percobaan dalam satu pratikum akan kami sertakan URL YouTubenya disini, mengenai diskusi dan upload tugas praktikum bisa dilakukan via Google Classroom
 
 Overview :
 
