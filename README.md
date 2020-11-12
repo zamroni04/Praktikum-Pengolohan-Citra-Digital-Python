@@ -8,8 +8,8 @@ Overview :
 2. Praktikum 2 - Plot (Video Presentasi = https://bit.ly/37RUiL3)
 3. Praktikum 3 - Read and Convert Images
 4. Praktikum 4 - Histogram
-5.
-6.
+5. Praktikum 5 - Pengolahan Dasar Citra
+6. Praktikum 6 - Filter & Konvolusi
 7.
 8.
 9.
