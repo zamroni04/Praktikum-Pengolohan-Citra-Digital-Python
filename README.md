@@ -10,7 +10,7 @@ Overview :
 4. Praktikum 4 - Histogram (Video Presentasi = https://www.youtube.com/watch?v=PAQLSdyRJFE)
 5. Praktikum 5 - Pengolahan Dasar Citra (Video Presentasi = https://www.youtube.com/watch?v=PWyOluno1K4)
 6. Praktikum 6 - Filter & Konvolusi
-7.
+7. Praktikum 7 - Contrast Enhance & Gray Level Slice
 8.
 9.
 10.
