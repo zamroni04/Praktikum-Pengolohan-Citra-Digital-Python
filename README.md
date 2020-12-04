@@ -9,8 +9,8 @@ Overview :
 3. Praktikum 3 - Read and Convert Images (Video Presentasi = https://www.youtube.com/watch?v=jOKqdEvzm9I)
 4. Praktikum 4 - Histogram (Video Presentasi = https://www.youtube.com/watch?v=PAQLSdyRJFE)
 5. Praktikum 5 - Pengolahan Dasar Citra (Video Presentasi = https://www.youtube.com/watch?v=PWyOluno1K4)
-6. Praktikum 6 - Filter & Konvolusi
-7. Praktikum 7 - Contrast Enhance & Gray Level Slice
+6. Praktikum 6 - Filter & Konvolusi (Video Presentasi = https://www.youtube.com/watch?v=PIqt5UDHa_0)
+7. Praktikum 7 - Contrast Enhance & Gray Level Slice (Video Presentasi = https://www.youtube.com/watch?v=JcjprAhH5xo)
 8.
 9.
 10.
@@ -18,7 +18,5 @@ Overview :
 12.
 13.
 14.
-15.
-16.
 
 Selamat belajar ^_^
