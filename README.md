@@ -11,7 +11,7 @@ Overview :
 5. Praktikum 5 - Pengolahan Dasar Citra (Video Presentasi = https://www.youtube.com/watch?v=PWyOluno1K4)
 6. Praktikum 6 - Filter & Konvolusi (Video Presentasi = https://www.youtube.com/watch?v=PIqt5UDHa_0)
 7. Praktikum 7 - Contrast Enhance & Gray Level Slice (Video Presentasi = https://www.youtube.com/watch?v=JcjprAhH5xo)
-8.
+8. Praktikum 8 - High Pass Filter & Low Pass Filter
 9.
 10.
 11.
