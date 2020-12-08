@@ -16,7 +16,7 @@ Overview :
 10. Praktikum 10 - Deteksi Tepi & Segmentasi
 11. Praktikum 11 - Konversi Citra Warna
 12. Praktikum 12 - Morfologi & Citra Biner
-13.
+13. Praktikum 13 - Gray Level Co-occurent Matrix
 14.
 
 Selamat belajar ^_^
