@@ -12,10 +12,10 @@ Overview :
 6. Praktikum 6 - Filter & Konvolusi (Video Presentasi = https://www.youtube.com/watch?v=PIqt5UDHa_0)
 7. Praktikum 7 - Contrast Enhance & Gray Level Slice (Video Presentasi = https://www.youtube.com/watch?v=JcjprAhH5xo)
 8. Praktikum 8 - High Pass Filter & Low Pass Filter
-9.
-10.
-11.
-12.
+9. Praktikum 9 - Histogram Ekualisasi & Spesifikasi
+10. Praktikum 10 - Deteksi Tepi & Segmentasi
+11. Praktikum 11 - Konversi Citra Warna
+12. Praktikum 12 - Morfologi & Citra Biner
 13.
 14.
 
